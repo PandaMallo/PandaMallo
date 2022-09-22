@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PandaMallo
-- 👀 I’m interested in everything. I just start giving my first baby steps to this fantastic programming world.
-- 🌱 I’m currently learning web develop and python basics
-- 💞️ I’m looking to collaborate on anything you let me
+- 👀 I’m interested in DevOps, Automation, and Python Development.
+- 🌱 I’m currently learning Data Analytics with Python and Ansible Playbooks.
+- 💞️ I’m looking to reach my best
 - 📫 How to reach me ... by mail
 
 <!---
